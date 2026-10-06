@@ -1,0 +1,28 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+*.user
+*.suo
+
+# IDE
+.vs/
+.idea/
+*.csproj.user
+
+# FMT / Frostbite scratch
+*.fbmod
+*.fbproject
+Mods/
+Cache/
+
+# Decompiled SDK output (regenerate with ilspycmd — see SCHEMA.md)
+decompiled/
+*.il
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
