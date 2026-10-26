@@ -135,10 +135,10 @@ Suggested sequence: 1A → 1B → 1C → 1D → 2A → 2B → 2C → 2D → 2E
 |---|---|
 | `C:\Users\Ninja\Documents\Mods\FC27 Mods\FMT_PRO\Plugins\FC27Plugin.dll` | Main FC27 plugin - contains recipe/visual/CAP logic |
 | `C:\Users\Ninja\Documents\Mods\FC27 Mods\FMT_PRO\SDK\FC27SDK.dll` | Type schemas for FC27 |
-| `C:\Users\Ninja\Source\Repos\FMT.Madden26Plugin\Roster\PlayerVisualRecipe.cs` | Reference CFB27 implementation |
-| `C:\Users\Ninja\Source\Repos\FMT.Madden26Plugin\Roster\CFB27RosterReader.cs` | Roster parsing patterns |
-| `C:\Users\Ninja\Source\Repos\FMT.Madden26Plugin\Roster\FaceTemplateMatcher.cs` | Face matching logic |
-| `C:\Users\Ninja\Source\Repos\DuplicationPlugin\DuplicationTool.cs` | BRT/bundle handling lessons (what to avoid) |
+| `E:\Game stuff\mods\Repos\Repos\FMT.Madden26Plugin\Roster\PlayerVisualRecipe.cs` | Reference CFB27 implementation |
+| `E:\Game stuff\mods\Repos\Repos\FMT.Madden26Plugin\Roster\CFB27RosterReader.cs` | Roster parsing patterns |
+| `E:\Game stuff\mods\Repos\Repos\FMT.Madden26Plugin\Roster\FaceTemplateMatcher.cs` | Face matching logic |
+| `E:\Game stuff\mods\Repos\Repos\DuplicationPlugin\DuplicationTool.cs` | BRT/bundle handling lessons (what to avoid) |
 
 ---
 
